@@ -1,4 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
+Estudiante 1: Ana Margarita Florez - a.florezr@uniandes.edu.co - 201922242
+Estudiante 2: Sofia Torres Ramírez - s.torres21@uniandes.edu.co - 202014872
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
