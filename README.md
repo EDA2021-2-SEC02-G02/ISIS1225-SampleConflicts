@@ -1,4 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
+Estudiante 1: Ana Margarita Florez
+Estudiante 2: Sofia Torres Ramírez
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
